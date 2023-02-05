@@ -1,17 +1,17 @@
-#lista = [1,2,3,4,5]
+lista = [1,2,3,4,5]
 
-#print(lista)
+print(lista)
 
-#for n in lista:
-#    print(n)
+for n in lista:
+    print(n)
 
-##diferenciando do while:
+#diferenciando do while:
 
-#i = 0
+i = 0
 
-#while i < len(lista):
-#    print(lista[i])
-#    i = i + 1
+while i < len(lista):
+    print(lista[i])
+    i = i + 1
 
 #Exercício 1:
 
