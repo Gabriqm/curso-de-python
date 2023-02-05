@@ -1,18 +1,18 @@
-#l = ["Sofá", "Televisão", "Rádio", "AC", "Poltrona"]
+l = ["Sofá", "Televisão", "Rádio", "AC", "Poltrona"]
 
-#i = 0
+i = 0
 
-#item_procurado = input("O que deseja buscar na casa? ")
-#achou = False
+item_procurado = input("O que deseja buscar na casa? ")
+achou = False
 
-#while i < len(l):
-#    if l[i] == item_procurado:
-#        print("Encontramos um %s!" %item_procurado)
-#        achou = True
-#    i = i + 1
+while i < len(l):
+    if l[i] == item_procurado:
+        print("Encontramos um %s!" %item_procurado)
+        achou = True
+    i = i + 1
 
-#if achou == False:
-#    print("Não encontramos o %s." %item_procurado)
+if achou == False:
+    print("Não encontramos o %s." %item_procurado)
 
 
 # EXERCÍCIO peça dois itens ao usuário e identifique o primeiro encontrado na lista:
