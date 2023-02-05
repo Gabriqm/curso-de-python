@@ -50,7 +50,7 @@ resultado = base**potencia
 
 print("O resultado de %.1f na potencia %.1f é de %f" %(base,potencia,resultado))
 
-Exercício 4:
+#Exercício 4:
 
 x = float(input("Você tem R$359,56 na sua conta bancária, quanto gostaria de depositar? "))
 
