@@ -1,39 +1,39 @@
-#profissao = "Programador"
+profissao = "Programador"
 
-#print(profissao)
-#print("Programador")
+print(profissao)
+print("Programador")
 
-#frase = "O rato roeu a roupa do rei de roma"
+frase = "O rato roeu a roupa do rei de roma"
 
-#print(frase)
-#print(len(frase))
+print(frase)
+print(len(frase))
 
 #acesso caracteres, indice sempre começa com [0], primeira letra é o índice 0.
 
-#palavra = "Caminhão"
+palavra = "Caminhão"
 
-#print(palavra[0])
+print(palavra[0])
 
-#print(palavra[5])
+print(palavra[5])
 
-#frase = "Estou dirigindo um caminhão na BR 101"
+frase = "Estou dirigindo um caminhão na BR 101"
 
-#print(frase[20])
+print(frase[20])
 
 #Concatenação:
 
-#nome = "Gabriel"
-#print("Olá " + nome)
+nome = "Gabriel"
+print("Olá " + nome)
 
-#velocidade = "200"
-#carro = "Ferrari"
-#cidade = "Floripa"
+velocidade = "200"
+carro = "Ferrari"
+cidade = "Floripa"
 
-#print("O veículo "+ carro + " estava a "+ velocidade + " km/h em "+ cidade)
+print("O veículo "+ carro + " estava a "+ velocidade + " km/h em "+ cidade)
 
-#espacador = " "
+espacador = " "
 
-#print(nome+espacador+carro)
+print(nome+espacador+carro)
 
 #Exercício:
 saudacao = "Olá, sr."
