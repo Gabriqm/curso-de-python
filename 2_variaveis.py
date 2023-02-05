@@ -6,9 +6,9 @@ print(y)
 
 idade = 25
 
-#print(idade)
+print(idade)
 
-#print(type(idade))
+print(type(idade))
 
 #abaixo é o exercício proposto:
 
