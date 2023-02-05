@@ -1,63 +1,63 @@
-#verdadeiro = True
+verdadeiro = True
 
-#print(verdadeiro)
-#print(type(verdadeiro))
+print(verdadeiro)
+print(type(verdadeiro))
 
-#falso = False  
+falso = False  
 
-#print(falso)
-#print(type(falso))
+print(falso)
+print(type(falso))
 
 # operadores relacionais:
 # ==, !=, >, <, >=, <= 
 # resultado sempre booleano.
 
 # igualdade == 
-#a = 10
-#b = 10
-#c = 15
+a = 10
+b = 10
+c = 15
 
-#print(a==b)
-#print(b==c)
+print(a==b)
+print(b==c)
 
 #diferença != 
 
-#d = 10
-#e = 5
+d = 10
+e = 5
 
-#print(d != 5)
-#print(d != a)
+print(d != 5)
+print(d != a)
 
-#idade = 18
-#censura = 18
+idade = 18
+censura = 18
 
-#print (idade == censura)
+print (idade == censura)
 
 #maior > e menor <
 
 
-#a = 10
-#b = 5
-#c = 20
+a = 10
+b = 5
+c = 20
 
-#print(a>b)
-#print(b>a)
-#print(c<b)
-#print(a<c)
+print(a>b)
+print(b>a)
+print(c<b)
+print(a<c)
 
 #maior ou igual >= e menor ou igual <=
 
-#a = 15
-#b = 10
-#c = 15
+a = 15
+b = 10
+c = 15
 
-#print (a >= b)
-#print (a >= c)
-#print(a>c)
+print (a >= b)
+print (a >= c)
+print(a>c)
 
-#print (a <=b)
-#print (a <= c)
-#print (a<c)
+print (a <=b)
+print (a <= c)
+print (a<c)
 
 #Exercício:
 
