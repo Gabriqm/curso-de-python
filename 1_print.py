@@ -1,5 +1,5 @@
-#print("Olá mundo!")
-#print("Vai dar bom.")
+print("Olá mundo!")
+print("Vai dar bom.")
 
 #abaixo o exercício:
 
