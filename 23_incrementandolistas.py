@@ -1,31 +1,31 @@
-#lista = [0,1,2,3,4]
+lista = [0,1,2,3,4]
 
-#lista.append(5)
+lista.append(5)
 
-#print(lista)
+print(lista)
 
-#nomes = ["Gabriel", "Maria Clara"]
+nomes = ["Gabriel", "Maria Clara"]
 
-#nomes.append("Benjamin")
+nomes.append("Benjamin")
 
-#print(nomes)
+print(nomes)
 
-#if nomes[1] != "Gabriel":
-#    nomes.append("Leirbag")
+if nomes[1] != "Gabriel":
+    nomes.append("Leirbag")
 
-#print(nomes)
+print(nomes)
 
 #EXERCÍCIO 1 lista zerada e adicionar 5 elementos nela por input:
 
-#lista=[]
+lista=[]
 
-#i = 0
+i = 0
 
-#while i<5:
-#    lista.append(int(input("Insira um número: ")))
-#    i = i + 1
+while i<5:
+    lista.append(int(input("Insira um número: ")))
+    i = i + 1
 
-#print(lista)
+print(lista)
 
 #EXERCÍCIO 2 duas variaveis de listas crie uma terceira com todos os elementos das listas:
 
