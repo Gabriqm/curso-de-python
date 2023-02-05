@@ -1,34 +1,34 @@
-#lista = []
+lista = []
 
-#print(lista)
-#print(type(lista))
+print(lista)
+print(type(lista))
 
-#numeros = [1,2,3,4,5]
+numeros = [1,2,3,4,5]
 
-#print(numeros)
+print(numeros)
 
-#nomes = ["Gabriel", "Maria"]
+nomes = ["Gabriel", "Maria"]
 
-#print(nomes)
+print(nomes)
 
-#booleans = [True, False, True]
-#print(booleans)
+booleans = [True, False, True]
+print(booleans)
 
-#lista = [1,2,3,4,5]
+lista = [1,2,3,4,5]
 
-#print(lista[0])
+print(lista[0])
 
-#print(lista[3])
+print(lista[3])
 
-#nomes = ["Gabriel", "Maria", "Benjamin"]
+nomes = ["Gabriel", "Maria", "Benjamin"]
 
-#nomes[1] = "Maria Clara"
+nomes[1] = "Maria Clara"
 
-#print(nomes)
+print(nomes)
 
-#print("O meu nome é %s." % nomes[0])
+print("O meu nome é %s." % nomes[0])
 
-#nome = nomes[1]
+nome = nomes[1]
 
-#print(nome)
+print(nome)
 
