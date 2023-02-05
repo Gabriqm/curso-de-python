@@ -1,35 +1,35 @@
-#palavra = "Testando"
+palavra = "Testando"
 
-#for letra in palavra:
-#    print(letra)
+for letra in palavra:
+    print(letra)
 
-#nome = "Gabriel"
+nome = "Gabriel"
 
-#for x in nome:
-#    print(x)
-#    if x == "G":
-#        print ("Primeira letra do nome")
+for x in nome:
+    print(x)
+    if x == "G":
+        print ("Primeira letra do nome")
 
 #Exercício 1:
 
 
-#x = int(input("Digite um número: "))
+x = int(input("Digite um número: "))
 
-#divisoes = 0
+divisoes = 0
 
-#contador = x
+contador = x
 
-#while contador > 0:
+while contador > 0:
 
-#    if x % contador == 0:
-#        divisoes = divisoes + 1
+    if x % contador == 0:
+        divisoes = divisoes + 1
 
-#    contador = contador - 1
+    contador = contador - 1
 
-#if divisoes == 2:
-#    print("O número %d é primo" %x)
-#else:
-#    print("O número %d não é primo" %x)
+if divisoes == 2:
+    print("O número %d é primo" %x)
+else:
+    print("O número %d não é primo" %x)
 
 #Exercício 2:
 
