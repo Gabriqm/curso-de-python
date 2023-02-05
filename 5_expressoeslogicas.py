@@ -1,45 +1,45 @@
-#idade = 18
-#carteiraMotorista = True
+idade = 18
+carteiraMotorista = True
 
-#print(idade >=18 and carteiraMotorista==True)
-#print("Pode dirigir")
+print(idade >=18 and carteiraMotorista==True)
+print("Pode dirigir")
 
-#velocidade = 90
-#radar = 100
-#radarFuncionando = False
+velocidade = 90
+radar = 100
+radarFuncionando = False
 
-#print(velocidade > radar and radarFuncionando == True)
-#print("Não foi multado")
+print(velocidade > radar and radarFuncionando == True)
+print("Não foi multado")
 
 #Exercício1:
-#Pedro = 9
-#Maria = 10
-#Carlos = 5
+Pedro = 9
+Maria = 10
+Carlos = 5
 
-#media = 7
+media = 7
 
-#print(Pedro >= media)
-#print(Maria >= media)
-#print(Carlos >= media)
+print(Pedro >= media)
+print(Maria >= media)
+print(Carlos >= media)
 
-#p1 = 5
-#p2 = 8
-#p3 = 10
+p1 = 5
+p2 = 8
+p3 = 10
 
-#mediaP = (p1+p2+p3)/3
+mediaP = (p1+p2+p3)/3
 
-#print(mediaP)
+print(mediaP)
 
-#print(mediaP >= media)
+print(mediaP >= media)
 
 #Exercicio2
 
-#salario = 1800
-#aumento = 900
+salario = 1800
+aumento = 900
 
-#novo_salario = salario+aumento
+novo_salario = salario+aumento
 
-#print(novo_salario)
+print(novo_salario)
 
 #Exercicio3
 
