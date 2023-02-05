@@ -1,20 +1,20 @@
-#poupanca = 200
+poupanca = 200
 
-#saque = int(input("Quanto deseja sacar? "))
+saque = int(input("Quanto deseja sacar? "))
 
-#if saque <= poupanca:
-#    print("Você sacou R$ %d "%saque)
-#else: 
-#    print("Você não tem saldo para sacar R$ %d" %saque)
-#    print("Sua poupança tem no momento R$ %d" %poupanca)
+if saque <= poupanca:
+    print("Você sacou R$ %d "%saque)
+else: 
+    print("Você não tem saldo para sacar R$ %d" %saque)
+    print("Sua poupança tem no momento R$ %d" %poupanca)
 
 #Exercício 1:
 
-#salario= int(input("De quanto é seu salário? "))
+salario= int(input("De quanto é seu salário? "))
 
-#if salario>=1800:
+if salario>=1800:
     #print("Você precisa pagar o Imposto de Renda")
-#else:
+else:
     #print("Você não precisa pagar o Imposto de Renda")
 
 #Exercício 2:
