@@ -1,39 +1,39 @@
-#if 10 > 5:
-#    verdura = "Cenoura"
-#    print("Entrou no if")
-#    print(verdura)
+if 10 > 5:
+    verdura = "Cenoura"
+    print("Entrou no if")
+    print(verdura)
 
-#print("ANTES DO IF")
+print("ANTES DO IF")
 
-#if 5>10:
-#    print("IF FALSO")
+if 5>10:
+    print("IF FALSO")
 
-#print ("DEPOIS DO IF")
+print ("DEPOIS DO IF")
 
-#nome = "Gabriel"
-#idade = 25
+nome = "Gabriel"
+idade = 25
 
-#if nome == "Gabriel" and idade ==25:
-#    print("Olá %s" %nome)
+if nome == "Gabriel" and idade ==25:
+    print("Olá %s" %nome)
 
 #Exercício 1:
 
-#idade = int(input("Qual é a sua idade? "))
+idade = int(input("Qual é a sua idade? "))
 
-#if idade >= 18:
-#    print("Pode entrar na balada!")
+if idade >= 18:
+    print("Pode entrar na balada!")
 
 #Exercício 2:
 
-#rodas = int(input("Quantas rodas tem o veículo? "))
+rodas = int(input("Quantas rodas tem o veículo? "))
 
-#print(rodas)
+print(rodas)
 
-#if rodas >2:
-#    print("Você precisa pagar pedágio")
+if rodas >2:
+    print("Você precisa pagar pedágio")
 
-#if rodas == 2:
-#    print("Pode passar livremente")
+if rodas == 2:
+    print("Pode passar livremente")
 
 #Exercício 3:
 
