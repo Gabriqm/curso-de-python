@@ -1,14 +1,14 @@
-#lista = [1,2,3,4,5,6,7]
+lista = [1,2,3,4,5,6,7]
 
-#print(lista)
+print(lista)
 
-#del lista[0]
+del lista[0]
 
-#print(lista)
+print(lista)
 
-#del lista[len(lista) - 1]
+del lista[len(lista) - 1]
 
-#print(lista)
+print(lista)
 
 #EXERCÍCIO:
 
